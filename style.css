@@ -1,0 +1,11 @@
+.navbar-brand{margin: 0px 150px;}
+.navbar-text {margin-left: 100px;}
+.navbar{background-color: red;}
+.footer2{text-align: center; background-color: yellow;margin: 0px;  padding: 20px 0px !important;}
+.footer1{text-align: center; background-color: red; margin: 0px; padding: 20px 0px !important;}
+.footerdetail{color: black;}
+.aboutusdetail{overflow-wrap: break-word; margin: 70px 150px; line-height: 1cm; text-align: justify;}
+.hours{border-bottom: 0.05cm solid black; width:120px; margin-left: 100px; margin-top: 40px; font-size: 30px; font-weight: bold;}
+.hours1{margin-left: 100px; margin-top: 20px; font-size: 25px;}
+.contactdetails{margin-bottom: 105px;}
+.carousel1, .carousel2, .carousel3, .carousel4{width: 100%; height: 700px;}
